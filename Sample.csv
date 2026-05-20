@@ -1,0 +1,402 @@
+Student_ID,Gender,Board_10th,Marks_10th,Board_12th,Marks_12th,Stream,Cgpa,Internship,Training,Backlog,Innovative_Project,Communication_Score,Technical_Course,Placement_Status
+STU1001,M,State Board,66.8,CBSE,56.6,Civil Engineering,5.94,Yes,No,Yes,Yes,2,Yes,Placed
+STU1002,M,State Board,82.9,State Board,69.7,Computer Science,7.43,No,Yes,No,Yes,4,No,Placed
+STU1003,F,CBSE,59.0,CBSE,66.9,Chemical Engineering,6.98,No,Yes,No,Yes,4,Yes,Placed
+STU1004,M,State Board,58.0,State Board,60.7,Arts,6.74,Yes,Yes,No,No,3,No,Not Placed
+STU1005,M,ICSE,70.3,State Board,62.5,Arts,9.53,Yes,Yes,No,Yes,2,No,Placed
+STU1006,F,CBSE,64.8,CBSE,87.8,Biotechnology,7.23,Yes,Yes,No,No,2,No,Placed
+STU1007,M,ICSE,61.0,State Board,76.4,Medicine,6.63,No,No,No,Yes,5,No,Placed
+STU1008,M,CBSE,82.0,State Board,69.8,Electrical Engineering,5.77,No,No,Yes,Yes,1,No,Not Placed
+STU1009,M,ICSE,73.7,ICSE,50.2,Commerce,8.6,No,Yes,No,Yes,3,Yes,Placed
+STU1010,M,State Board,68.9,CBSE,55.3,Information Technology,7.06,No,Yes,Yes,Yes,4,Yes,Not Placed
+STU1011,M,State Board,75.4,State Board,57.8,Electronics,7.77,No,Yes,No,Yes,3,No,Not Placed
+STU1012,F,State Board,74.4,CBSE,60.6,Arts,6.95,Yes,Yes,Yes,Yes,1,Yes,Not Placed
+STU1013,M,ICSE,83.8,CBSE,75.3,Mechanical Engineering,8.61,No,Yes,No,No,2,Yes,Placed
+STU1014,F,ICSE,72.7,State Board,52.5,Law,8.31,Yes,Yes,No,No,1,Yes,Placed
+STU1015,M,ICSE,62.9,ICSE,61.7,Medicine,9.47,No,Yes,Yes,Yes,2,Yes,Placed
+STU1016,M,ICSE,93.8,CBSE,67.8,Architecture,9.74,No,No,No,No,2,Yes,Placed
+STU1017,M,State Board,68.5,CBSE,77.5,Electrical Engineering,7.66,Yes,Yes,No,Yes,2,Yes,Placed
+STU1018,F,CBSE,95.5,State Board,61.6,Biotechnology,8.06,Yes,No,No,No,3,Yes,Placed
+STU1019,M,ICSE,72.0,State Board,80.3,Commerce,7.47,Yes,Yes,No,Yes,1,Yes,Placed
+STU1020,F,CBSE,92.8,ICSE,63.4,Electronics,7.38,No,Yes,No,No,1,Yes,Placed
+STU1021,M,ICSE,67.1,CBSE,83.7,Civil Engineering,6.38,No,No,Yes,Yes,1,No,Not Placed
+STU1022,M,ICSE,88.2,State Board,96.1,Electrical Engineering,6.19,No,No,Yes,Yes,1,Yes,Placed
+STU1023,M,ICSE,60.5,ICSE,67.1,Arts,9.51,Yes,No,No,Yes,1,No,Placed
+STU1024,M,CBSE,92.2,CBSE,91.4,Law,5.61,No,No,No,Yes,3,Yes,Placed
+STU1025,F,CBSE,91.9,CBSE,59.4,Civil Engineering,9.45,No,No,No,Yes,2,Yes,Placed
+STU1026,F,ICSE,92.2,ICSE,66.5,Science,7.69,No,Yes,No,Yes,5,No,Placed
+STU1027,F,State Board,88.8,ICSE,78.5,Law,7.7,No,Yes,No,No,1,Yes,Placed
+STU1028,F,State Board,68.5,CBSE,83.8,Mechanical Engineering,6.79,No,No,No,No,5,Yes,Placed
+STU1029,M,State Board,79.5,ICSE,75.8,Science,5.5,No,Yes,Yes,No,4,No,Not Placed
+STU1030,F,State Board,62.3,CBSE,63.3,Chemical Engineering,8.35,No,Yes,No,Yes,3,Yes,Placed
+STU1031,M,CBSE,65.5,ICSE,78.7,Electronics,8.8,No,No,No,Yes,4,No,Placed
+STU1032,M,CBSE,88.5,CBSE,58.3,Electronics,9.62,No,Yes,No,Yes,4,Yes,Placed
+STU1033,F,State Board,90.0,State Board,70.1,Commerce,9.4,No,Yes,No,No,4,No,Not Placed
+STU1034,F,State Board,65.3,ICSE,53.6,MBA,6.73,No,No,No,Yes,2,Yes,Placed
+STU1035,M,CBSE,72.8,ICSE,75.5,Electronics,7.29,Yes,No,No,Yes,5,No,Placed
+STU1036,F,ICSE,91.7,ICSE,75.3,Arts,8.66,Yes,No,No,No,4,Yes,Placed
+STU1037,M,ICSE,94.5,State Board,75.1,Science,9.4,Yes,Yes,No,Yes,4,Yes,Placed
+STU1038,F,CBSE,74.6,ICSE,85.8,Science,7.13,No,No,No,No,1,Yes,Not Placed
+STU1039,M,State Board,58.0,State Board,51.9,Arts,5.63,Yes,Yes,No,Yes,2,No,Placed
+STU1040,F,State Board,66.0,ICSE,57.9,Chemical Engineering,8.11,Yes,Yes,No,Yes,5,Yes,Placed
+STU1041,F,State Board,63.5,State Board,82.5,Science,8.2,Yes,No,No,Yes,5,Yes,Placed
+STU1042,F,CBSE,76.8,ICSE,50.6,Law,7.31,No,Yes,No,No,4,Yes,Placed
+STU1043,F,ICSE,73.7,State Board,77.8,MBA,6.89,Yes,Yes,No,No,2,No,Not Placed
+STU1044,F,CBSE,76.3,ICSE,58.5,Science,6.41,No,No,Yes,No,5,Yes,Not Placed
+STU1045,M,CBSE,86.0,ICSE,76.1,Chemical Engineering,6.53,No,No,No,Yes,1,No,Placed
+STU1046,F,State Board,80.0,ICSE,76.0,Biotechnology,6.98,No,No,No,No,3,No,Placed
+STU1047,F,CBSE,86.9,State Board,58.7,Chemical Engineering,6.43,No,No,No,No,1,Yes,Placed
+STU1048,M,ICSE,55.6,State Board,55.9,Arts,5.7,Yes,No,No,Yes,1,No,Placed
+STU1049,F,CBSE,96.5,ICSE,94.2,Medicine,7.55,Yes,No,No,Yes,2,Yes,Placed
+STU1050,M,CBSE,60.1,ICSE,78.5,MCA,8.9,Yes,No,No,No,3,No,Placed
+STU1051,M,CBSE,81.9,ICSE,81.0,Electrical Engineering,6.18,Yes,Yes,Yes,No,4,No,Placed
+STU1052,F,State Board,67.2,ICSE,53.3,Biotechnology,6.5,No,Yes,No,Yes,2,No,Not Placed
+STU1053,M,CBSE,89.1,State Board,85.2,Mechanical Engineering,7.95,No,No,No,No,3,No,Not Placed
+STU1054,F,State Board,68.9,ICSE,51.2,Electrical Engineering,6.48,Yes,No,Yes,Yes,4,No,Not Placed
+STU1055,F,State Board,90.0,CBSE,72.1,Information Technology,7.26,No,Yes,No,No,4,No,Placed
+STU1056,M,ICSE,58.8,ICSE,65.2,Science,9.67,No,Yes,No,No,4,Yes,Placed
+STU1057,F,State Board,74.0,CBSE,59.6,Arts,7.86,No,No,No,No,1,Yes,Not Placed
+STU1058,M,ICSE,78.7,State Board,69.2,Biotechnology,6.47,Yes,No,No,Yes,4,No,Placed
+STU1059,F,ICSE,97.2,CBSE,71.5,MBA,6.12,Yes,Yes,No,No,3,No,Not Placed
+STU1060,F,State Board,79.9,State Board,73.0,MCA,6.14,No,No,Yes,No,4,No,Not Placed
+STU1061,F,CBSE,91.8,ICSE,52.1,Biotechnology,8.7,No,No,No,Yes,4,Yes,Placed
+STU1062,M,ICSE,59.3,ICSE,50.7,Commerce,6.12,Yes,Yes,Yes,No,3,No,Not Placed
+STU1063,F,ICSE,82.0,ICSE,91.0,Commerce,5.65,Yes,Yes,No,Yes,1,No,Not Placed
+STU1064,F,CBSE,84.8,CBSE,52.2,Civil Engineering,8.92,No,No,No,Yes,2,No,Placed
+STU1065,M,CBSE,58.4,ICSE,79.1,Information Technology,6.54,Yes,Yes,No,No,4,No,Not Placed
+STU1066,F,State Board,78.5,CBSE,70.8,Medicine,6.99,No,No,No,No,3,Yes,Not Placed
+STU1067,M,CBSE,71.4,ICSE,77.0,Architecture,9.77,No,Yes,No,No,3,Yes,Placed
+STU1068,F,ICSE,88.4,CBSE,78.5,Electrical Engineering,7.01,Yes,No,No,Yes,1,Yes,Placed
+STU1069,M,State Board,70.7,CBSE,54.2,Medicine,6.77,No,Yes,No,No,5,No,Not Placed
+STU1070,F,ICSE,87.1,ICSE,87.8,MBA,7.51,Yes,Yes,No,Yes,4,No,Placed
+STU1071,M,ICSE,78.1,ICSE,67.3,Science,8.72,No,No,No,No,1,Yes,Placed
+STU1072,M,State Board,57.7,ICSE,92.7,Commerce,6.8,No,Yes,Yes,No,4,Yes,Placed
+STU1073,F,ICSE,71.0,State Board,82.7,Electronics,7.82,Yes,No,No,No,5,No,Not Placed
+STU1074,M,State Board,70.9,ICSE,70.9,MBA,6.52,No,Yes,No,No,5,No,Placed
+STU1075,M,CBSE,95.8,ICSE,54.3,MBA,6.41,Yes,Yes,No,Yes,5,Yes,Placed
+STU1076,M,CBSE,69.1,CBSE,87.1,Chemical Engineering,8.06,No,Yes,No,No,2,Yes,Placed
+STU1077,M,CBSE,70.4,CBSE,77.7,Computer Science,5.57,No,Yes,Yes,No,5,Yes,Not Placed
+STU1078,F,ICSE,77.1,CBSE,71.2,Architecture,6.45,Yes,No,Yes,Yes,1,No,Not Placed
+STU1079,M,ICSE,85.6,ICSE,53.5,Law,5.85,Yes,Yes,Yes,No,4,No,Not Placed
+STU1080,M,State Board,59.9,State Board,80.6,Law,8.81,Yes,No,No,Yes,4,No,Placed
+STU1081,F,State Board,59.1,ICSE,64.7,Science,6.6,Yes,No,Yes,Yes,4,Yes,Placed
+STU1082,M,State Board,57.6,State Board,76.4,Arts,8.38,No,No,No,No,1,No,Not Placed
+STU1083,M,State Board,76.8,CBSE,80.9,Arts,6.46,Yes,No,No,No,5,Yes,Placed
+STU1084,F,CBSE,62.8,State Board,85.8,Computer Science,9.46,No,Yes,No,Yes,5,No,Placed
+STU1085,M,State Board,77.8,ICSE,69.7,Computer Science,6.97,No,No,No,Yes,1,Yes,Placed
+STU1086,M,ICSE,74.1,ICSE,72.8,Electrical Engineering,7.4,No,Yes,No,Yes,3,No,Placed
+STU1087,F,CBSE,64.5,State Board,52.6,Architecture,6.38,Yes,Yes,No,Yes,1,No,Placed
+STU1088,M,ICSE,77.9,CBSE,73.5,Information Technology,9.08,No,Yes,No,Yes,4,Yes,Placed
+STU1089,F,State Board,73.5,ICSE,83.3,Mechanical Engineering,7.3,Yes,No,No,Yes,5,No,Placed
+STU1090,M,ICSE,91.3,CBSE,70.5,Arts,7.22,Yes,No,No,No,2,No,Not Placed
+STU1091,M,State Board,76.9,ICSE,66.5,Mechanical Engineering,9.62,Yes,Yes,No,Yes,2,Yes,Placed
+STU1092,M,State Board,76.2,State Board,85.7,Mechanical Engineering,7.43,No,No,No,Yes,4,No,Placed
+STU1093,M,ICSE,76.8,ICSE,71.7,MBA,5.66,No,No,Yes,Yes,5,No,Placed
+STU1094,F,State Board,83.0,ICSE,78.4,Electrical Engineering,7.66,Yes,No,No,Yes,5,Yes,Placed
+STU1095,F,State Board,77.5,CBSE,67.1,Medicine,9.45,No,No,No,Yes,3,Yes,Placed
+STU1096,F,ICSE,86.1,State Board,95.3,Science,8.09,Yes,No,Yes,No,3,No,Placed
+STU1097,F,State Board,71.2,ICSE,88.2,Mechanical Engineering,8.38,Yes,No,No,Yes,3,No,Placed
+STU1098,F,ICSE,63.3,CBSE,57.3,Chemical Engineering,6.77,Yes,Yes,No,Yes,5,No,Placed
+STU1099,M,State Board,73.8,ICSE,67.1,Information Technology,8.59,No,No,No,No,2,Yes,Placed
+STU1100,M,ICSE,84.2,State Board,96.3,Architecture,7.49,No,No,No,No,2,Yes,Not Placed
+STU1101,F,CBSE,82.6,ICSE,76.1,Electronics,5.94,Yes,No,Yes,Yes,3,No,Not Placed
+STU1102,F,CBSE,95.7,CBSE,88.4,Electronics,9.3,Yes,No,No,Yes,4,Yes,Placed
+STU1103,F,CBSE,91.1,State Board,65.8,Computer Science,6.13,Yes,No,No,Yes,4,No,Placed
+STU1104,M,ICSE,64.3,CBSE,75.8,Mechanical Engineering,8.63,No,Yes,No,Yes,3,Yes,Placed
+STU1105,F,CBSE,59.8,ICSE,78.0,Law,5.57,Yes,Yes,Yes,Yes,5,No,Placed
+STU1106,M,State Board,83.7,State Board,95.8,Law,5.79,Yes,No,No,No,3,Yes,Placed
+STU1107,F,CBSE,86.5,State Board,54.9,Mechanical Engineering,8.0,No,Yes,No,Yes,4,No,Placed
+STU1108,M,State Board,88.4,ICSE,51.7,Electronics,6.37,Yes,Yes,Yes,No,5,No,Not Placed
+STU1109,F,CBSE,87.4,CBSE,63.4,Architecture,9.21,Yes,No,No,No,4,No,Placed
+STU1110,F,CBSE,76.3,ICSE,67.3,Science,8.93,No,Yes,No,Yes,4,Yes,Placed
+STU1111,M,CBSE,69.1,ICSE,64.4,Commerce,8.09,No,Yes,No,No,4,Yes,Placed
+STU1112,F,ICSE,82.5,CBSE,53.5,Arts,8.24,No,Yes,No,Yes,5,No,Placed
+STU1113,M,State Board,70.8,ICSE,94.6,Mechanical Engineering,5.64,Yes,No,No,Yes,5,Yes,Placed
+STU1114,F,State Board,67.0,CBSE,51.2,Science,6.3,No,Yes,Yes,No,4,Yes,Not Placed
+STU1115,F,CBSE,60.3,CBSE,71.2,MCA,9.36,No,Yes,No,No,3,Yes,Placed
+STU1116,F,CBSE,85.6,State Board,80.0,MCA,8.91,Yes,Yes,No,Yes,2,No,Placed
+STU1117,F,State Board,60.6,CBSE,53.1,Arts,7.21,No,No,No,Yes,2,No,Placed
+STU1118,F,State Board,77.2,CBSE,91.3,Medicine,8.86,Yes,Yes,No,Yes,1,Yes,Placed
+STU1119,F,State Board,64.7,State Board,92.1,Information Technology,9.14,No,Yes,No,No,2,No,Not Placed
+STU1120,M,State Board,95.5,CBSE,58.0,Mechanical Engineering,8.19,No,Yes,No,Yes,1,Yes,Placed
+STU1121,M,State Board,72.9,State Board,51.4,MBA,9.32,No,No,No,No,3,No,Placed
+STU1122,M,ICSE,72.9,ICSE,59.6,Electrical Engineering,8.11,No,No,No,No,4,Yes,Placed
+STU1123,F,CBSE,75.1,ICSE,71.1,Civil Engineering,6.11,Yes,No,No,No,2,Yes,Not Placed
+STU1124,M,CBSE,76.4,State Board,71.9,Commerce,9.28,No,Yes,No,No,2,Yes,Placed
+STU1125,M,ICSE,76.3,State Board,81.6,Electrical Engineering,6.73,Yes,Yes,No,No,3,No,Placed
+STU1126,M,State Board,79.2,ICSE,76.0,Science,5.82,No,No,No,Yes,2,Yes,Placed
+STU1127,F,CBSE,63.6,State Board,68.9,Commerce,5.67,Yes,Yes,No,No,2,Yes,Placed
+STU1128,M,ICSE,97.6,State Board,89.6,Commerce,8.05,No,No,No,Yes,3,No,Placed
+STU1129,F,State Board,92.5,State Board,51.3,Law,7.54,Yes,Yes,No,Yes,5,No,Placed
+STU1130,M,State Board,95.8,CBSE,59.0,Biotechnology,7.4,No,Yes,No,Yes,4,No,Not Placed
+STU1131,M,State Board,63.9,ICSE,96.9,Electrical Engineering,7.56,No,No,No,No,5,No,Not Placed
+STU1132,F,CBSE,96.2,ICSE,76.2,MBA,6.47,No,No,No,No,3,No,Placed
+STU1133,F,CBSE,79.7,State Board,67.8,MBA,9.71,No,Yes,No,No,1,No,Not Placed
+STU1134,F,CBSE,63.7,State Board,62.7,MBA,7.92,No,Yes,Yes,Yes,1,Yes,Placed
+STU1135,M,ICSE,69.2,ICSE,54.7,Electrical Engineering,8.81,Yes,Yes,No,No,4,Yes,Placed
+STU1136,F,ICSE,82.8,CBSE,80.7,MCA,6.5,Yes,Yes,No,Yes,1,No,Placed
+STU1137,F,CBSE,55.4,State Board,78.3,Information Technology,9.49,No,No,No,No,2,No,Placed
+STU1138,F,CBSE,86.4,State Board,62.1,Civil Engineering,6.3,No,No,Yes,Yes,2,No,Not Placed
+STU1139,M,ICSE,83.8,CBSE,96.1,Commerce,7.55,Yes,Yes,No,Yes,4,No,Not Placed
+STU1140,M,ICSE,83.1,State Board,61.1,MCA,8.37,No,No,No,No,1,No,Placed
+STU1141,M,CBSE,75.6,ICSE,85.1,Biotechnology,8.1,No,No,No,Yes,2,Yes,Placed
+STU1142,M,State Board,59.8,State Board,92.4,Arts,6.37,Yes,Yes,Yes,No,1,Yes,Not Placed
+STU1143,M,State Board,74.2,CBSE,71.3,Architecture,7.71,No,Yes,No,No,1,No,Placed
+STU1144,M,State Board,58.1,ICSE,66.2,Computer Science,5.77,Yes,Yes,No,No,4,Yes,Placed
+STU1145,F,ICSE,74.3,ICSE,67.7,Law,8.44,Yes,No,No,Yes,2,Yes,Placed
+STU1146,F,State Board,85.9,ICSE,75.0,MCA,9.04,Yes,No,No,No,2,Yes,Placed
+STU1147,M,CBSE,63.9,CBSE,77.9,Law,7.42,Yes,Yes,No,No,4,Yes,Placed
+STU1148,M,State Board,97.7,CBSE,88.3,Electrical Engineering,8.65,No,No,No,Yes,5,Yes,Placed
+STU1149,M,State Board,95.8,State Board,92.8,MBA,8.19,No,No,No,No,5,No,Not Placed
+STU1150,M,ICSE,71.2,State Board,72.3,Law,9.15,No,Yes,No,Yes,5,No,Not Placed
+STU1151,F,CBSE,66.0,ICSE,80.4,Electronics,9.47,No,Yes,No,Yes,1,No,Placed
+STU1152,M,CBSE,89.6,State Board,84.0,Electrical Engineering,7.9,No,Yes,No,No,3,Yes,Placed
+STU1153,M,State Board,98.0,ICSE,93.0,Chemical Engineering,8.49,Yes,No,No,No,3,No,Placed
+STU1154,F,ICSE,70.5,ICSE,71.9,Arts,8.95,No,No,No,No,3,No,Placed
+STU1155,M,CBSE,66.2,State Board,77.2,Biotechnology,7.3,Yes,Yes,No,No,5,Yes,Placed
+STU1156,F,ICSE,96.6,State Board,84.8,Commerce,7.48,No,Yes,No,Yes,5,Yes,Placed
+STU1157,M,CBSE,72.7,State Board,60.9,Mechanical Engineering,8.54,Yes,Yes,No,No,1,No,Not Placed
+STU1158,M,State Board,78.7,CBSE,50.8,Computer Science,8.61,No,Yes,No,No,2,Yes,Not Placed
+STU1159,M,CBSE,81.7,ICSE,88.3,Electronics,6.65,No,Yes,No,No,4,Yes,Not Placed
+STU1160,F,State Board,90.6,CBSE,80.7,Biotechnology,9.19,Yes,Yes,No,No,5,No,Placed
+STU1161,M,CBSE,76.5,ICSE,80.3,Computer Science,6.92,Yes,Yes,No,No,3,Yes,Not Placed
+STU1162,M,CBSE,94.9,ICSE,50.7,MBA,6.39,Yes,No,No,Yes,5,No,Placed
+STU1163,F,State Board,61.0,State Board,84.0,Commerce,7.65,No,Yes,Yes,Yes,3,No,Not Placed
+STU1164,M,State Board,66.8,ICSE,73.1,Commerce,7.03,No,No,No,No,1,No,Not Placed
+STU1165,M,ICSE,61.6,State Board,86.8,Mechanical Engineering,6.16,No,No,Yes,Yes,1,No,Placed
+STU1166,M,CBSE,58.8,ICSE,71.1,MBA,7.89,No,Yes,No,Yes,5,No,Not Placed
+STU1167,F,ICSE,71.7,CBSE,84.1,Computer Science,7.91,Yes,Yes,No,Yes,2,No,Placed
+STU1168,M,CBSE,62.2,ICSE,69.8,Architecture,7.58,Yes,No,No,Yes,4,Yes,Placed
+STU1169,F,CBSE,95.8,ICSE,89.6,Electronics,7.13,No,No,No,Yes,3,No,Placed
+STU1170,F,ICSE,62.6,ICSE,95.5,Chemical Engineering,6.75,No,Yes,No,No,4,No,Placed
+STU1171,M,State Board,88.0,CBSE,94.8,Chemical Engineering,7.48,Yes,No,No,Yes,4,No,Placed
+STU1172,M,ICSE,83.3,State Board,69.9,MCA,7.12,No,No,No,No,5,Yes,Not Placed
+STU1173,M,CBSE,88.1,State Board,81.2,Arts,6.22,Yes,No,No,No,1,Yes,Placed
+STU1174,M,ICSE,71.1,ICSE,86.3,Biotechnology,8.03,Yes,No,No,No,1,No,Placed
+STU1175,M,State Board,61.1,ICSE,66.1,Mechanical Engineering,8.87,No,No,No,No,4,No,Placed
+STU1176,M,CBSE,91.5,State Board,55.1,Electrical Engineering,8.94,Yes,Yes,No,No,5,No,Not Placed
+STU1177,F,State Board,62.9,State Board,80.9,Biotechnology,7.2,Yes,No,No,No,1,Yes,Placed
+STU1178,M,State Board,63.0,ICSE,59.3,Mechanical Engineering,5.99,No,No,Yes,No,5,Yes,Placed
+STU1179,M,State Board,85.4,ICSE,93.2,Medicine,8.04,Yes,No,No,Yes,2,No,Placed
+STU1180,F,State Board,60.9,ICSE,69.9,Science,7.59,Yes,Yes,No,Yes,2,No,Placed
+STU1181,F,CBSE,75.8,CBSE,88.3,Electrical Engineering,9.64,No,No,No,No,4,No,Placed
+STU1182,M,ICSE,56.4,CBSE,75.3,Computer Science,6.22,No,No,Yes,Yes,5,Yes,Placed
+STU1183,M,State Board,74.0,CBSE,96.5,Arts,5.94,Yes,No,No,No,1,No,Not Placed
+STU1184,M,CBSE,89.9,State Board,82.4,Civil Engineering,9.2,No,Yes,No,Yes,2,Yes,Placed
+STU1185,M,ICSE,97.1,ICSE,63.6,MBA,6.65,Yes,Yes,No,No,1,No,Not Placed
+STU1186,M,CBSE,61.3,ICSE,88.9,Electronics,8.77,No,No,No,No,4,No,Placed
+STU1187,F,State Board,87.2,State Board,94.0,Mechanical Engineering,7.09,No,No,No,Yes,4,No,Not Placed
+STU1188,M,ICSE,90.5,ICSE,62.6,Science,9.06,No,Yes,No,No,3,Yes,Placed
+STU1189,M,CBSE,95.0,CBSE,70.7,Medicine,5.5,No,Yes,No,No,2,No,Placed
+STU1190,F,CBSE,71.0,State Board,57.8,Arts,7.2,No,Yes,No,Yes,1,Yes,Placed
+STU1191,M,State Board,64.7,State Board,70.9,Mechanical Engineering,5.53,No,Yes,No,Yes,4,Yes,Placed
+STU1192,M,CBSE,68.5,ICSE,56.4,Mechanical Engineering,8.83,Yes,Yes,Yes,Yes,4,No,Placed
+STU1193,F,State Board,84.5,CBSE,54.1,Electronics,5.93,Yes,No,Yes,No,3,Yes,Placed
+STU1194,M,State Board,80.8,State Board,78.6,Mechanical Engineering,8.85,Yes,No,No,Yes,4,No,Placed
+STU1195,F,ICSE,59.8,ICSE,80.0,Biotechnology,5.81,Yes,No,No,No,5,Yes,Placed
+STU1196,M,State Board,57.9,ICSE,60.1,Mechanical Engineering,9.47,No,No,No,No,4,No,Placed
+STU1197,F,CBSE,68.3,State Board,93.3,Electronics,9.69,Yes,No,No,Yes,3,No,Placed
+STU1198,M,CBSE,58.7,ICSE,55.5,Biotechnology,8.13,Yes,No,No,Yes,1,Yes,Placed
+STU1199,M,ICSE,96.0,State Board,74.3,Computer Science,9.04,No,Yes,No,No,1,Yes,Placed
+STU1200,F,State Board,57.7,State Board,95.8,Law,8.2,No,No,No,Yes,4,Yes,Placed
+STU1201,M,State Board,84.0,CBSE,60.7,MBA,7.69,Yes,Yes,No,No,3,No,Not Placed
+STU1202,M,State Board,89.5,State Board,84.8,Information Technology,7.3,No,Yes,No,No,3,Yes,Placed
+STU1203,M,CBSE,64.6,State Board,96.1,Civil Engineering,9.6,Yes,No,No,No,3,Yes,Placed
+STU1204,F,CBSE,67.5,ICSE,84.8,Computer Science,6.54,No,No,No,Yes,5,Yes,Placed
+STU1205,M,CBSE,78.3,State Board,89.5,Law,9.27,No,Yes,No,No,3,Yes,Placed
+STU1206,F,ICSE,96.3,CBSE,83.4,Biotechnology,5.9,Yes,No,No,Yes,5,Yes,Placed
+STU1207,M,State Board,79.4,ICSE,81.1,Science,6.06,No,No,No,No,3,No,Not Placed
+STU1208,M,CBSE,60.9,State Board,55.1,Biotechnology,5.95,No,No,Yes,Yes,5,No,Not Placed
+STU1209,F,ICSE,74.9,CBSE,54.2,Chemical Engineering,8.97,No,Yes,No,No,2,Yes,Placed
+STU1210,F,State Board,57.1,ICSE,62.2,Arts,9.76,Yes,No,No,Yes,1,No,Placed
+STU1211,M,CBSE,57.7,CBSE,56.1,Electronics,9.04,No,Yes,No,No,1,Yes,Not Placed
+STU1212,F,CBSE,59.0,ICSE,55.8,Chemical Engineering,9.55,Yes,Yes,No,No,4,No,Placed
+STU1213,M,ICSE,64.2,CBSE,62.9,Law,7.42,Yes,Yes,No,Yes,3,No,Placed
+STU1214,M,CBSE,67.0,CBSE,69.7,Architecture,8.26,Yes,Yes,No,No,4,No,Placed
+STU1215,F,ICSE,62.7,ICSE,78.1,Commerce,5.63,No,Yes,No,No,5,Yes,Not Placed
+STU1216,M,State Board,65.4,State Board,88.4,Civil Engineering,9.44,Yes,Yes,No,No,3,Yes,Placed
+STU1217,F,State Board,56.2,State Board,66.5,Commerce,7.94,Yes,Yes,No,No,5,No,Placed
+STU1218,M,CBSE,65.0,CBSE,50.9,Electrical Engineering,7.56,No,Yes,No,No,2,No,Placed
+STU1219,M,CBSE,91.4,ICSE,95.1,Electronics,7.11,No,Yes,No,No,2,Yes,Not Placed
+STU1220,F,State Board,68.6,State Board,95.5,Law,8.48,No,Yes,No,Yes,4,No,Placed
+STU1221,M,CBSE,86.3,State Board,94.6,MCA,7.18,Yes,Yes,No,Yes,5,Yes,Placed
+STU1222,F,State Board,58.3,ICSE,96.2,Electronics,6.22,Yes,No,Yes,No,2,Yes,Not Placed
+STU1223,F,CBSE,86.0,CBSE,68.1,Arts,8.65,Yes,No,No,No,3,No,Placed
+STU1224,M,CBSE,74.4,CBSE,63.9,Architecture,6.87,Yes,Yes,No,No,2,Yes,Placed
+STU1225,F,State Board,97.4,ICSE,83.1,Mechanical Engineering,7.35,Yes,No,No,Yes,3,Yes,Not Placed
+STU1226,F,State Board,67.1,CBSE,54.5,Law,7.19,No,Yes,Yes,No,1,No,Not Placed
+STU1227,M,CBSE,56.1,CBSE,80.0,Architecture,9.7,No,Yes,No,No,4,No,Not Placed
+STU1228,M,State Board,78.4,CBSE,67.4,MBA,7.14,Yes,No,No,No,3,Yes,Not Placed
+STU1229,M,State Board,83.7,CBSE,81.4,Electrical Engineering,8.98,No,Yes,No,No,5,No,Not Placed
+STU1230,M,ICSE,67.9,ICSE,92.4,Architecture,8.57,Yes,Yes,No,No,2,Yes,Not Placed
+STU1231,M,CBSE,73.2,State Board,70.5,Chemical Engineering,9.79,Yes,No,No,Yes,1,No,Placed
+STU1232,F,State Board,74.7,CBSE,87.0,Commerce,8.18,No,Yes,No,Yes,5,Yes,Placed
+STU1233,F,State Board,92.8,ICSE,62.4,Civil Engineering,8.32,No,Yes,No,No,2,No,Placed
+STU1234,M,CBSE,87.1,ICSE,92.2,Commerce,5.59,No,No,Yes,No,1,Yes,Placed
+STU1235,F,ICSE,86.3,State Board,80.3,Medicine,6.31,Yes,No,No,No,1,Yes,Placed
+STU1236,M,State Board,92.8,CBSE,58.2,Science,9.26,Yes,Yes,No,No,1,No,Not Placed
+STU1237,F,ICSE,76.7,State Board,93.4,MBA,8.43,Yes,No,No,No,2,No,Placed
+STU1238,F,CBSE,91.0,ICSE,85.2,Arts,8.46,No,Yes,No,Yes,5,Yes,Placed
+STU1239,M,ICSE,83.0,State Board,50.9,Biotechnology,8.86,Yes,No,No,Yes,5,Yes,Placed
+STU1240,F,ICSE,93.5,ICSE,71.6,MCA,6.44,No,No,Yes,Yes,5,No,Not Placed
+STU1241,F,State Board,59.6,CBSE,65.8,MCA,6.69,No,No,No,No,2,Yes,Placed
+STU1242,M,State Board,72.4,ICSE,82.0,Biotechnology,8.6,No,No,No,No,4,No,Not Placed
+STU1243,F,State Board,85.7,State Board,75.1,Chemical Engineering,8.88,No,No,No,Yes,3,Yes,Placed
+STU1244,M,State Board,93.7,State Board,54.2,MBA,7.03,No,No,No,No,3,No,Not Placed
+STU1245,M,ICSE,57.3,State Board,77.4,Medicine,9.56,Yes,No,No,Yes,4,No,Placed
+STU1246,M,CBSE,69.7,State Board,92.0,Electronics,9.74,Yes,No,No,Yes,1,No,Placed
+STU1247,F,State Board,57.5,ICSE,62.9,Information Technology,8.77,Yes,Yes,No,Yes,2,No,Placed
+STU1248,F,ICSE,71.5,CBSE,75.1,Science,8.64,Yes,No,No,Yes,1,Yes,Placed
+STU1249,M,State Board,92.7,ICSE,56.1,Biotechnology,7.15,No,Yes,Yes,No,3,No,Not Placed
+STU1250,F,State Board,97.8,ICSE,96.8,Commerce,7.61,Yes,Yes,No,No,1,Yes,Placed
+STU1251,M,State Board,55.9,State Board,57.9,Electronics,7.08,Yes,No,No,No,5,Yes,Placed
+STU1252,M,State Board,91.0,CBSE,82.4,Electrical Engineering,7.29,No,Yes,No,No,2,Yes,Not Placed
+STU1253,F,ICSE,83.5,State Board,74.5,Computer Science,8.18,Yes,No,No,Yes,5,Yes,Placed
+STU1254,F,CBSE,81.2,ICSE,89.1,Civil Engineering,9.68,No,No,No,Yes,5,No,Placed
+STU1255,F,CBSE,55.1,State Board,54.2,Architecture,5.97,No,Yes,No,Yes,1,No,Placed
+STU1256,F,ICSE,75.0,CBSE,88.2,Medicine,9.26,No,No,No,No,4,Yes,Placed
+STU1257,M,CBSE,83.5,CBSE,65.4,Electrical Engineering,9.35,No,Yes,No,No,2,Yes,Placed
+STU1258,F,ICSE,84.7,ICSE,87.6,Medicine,8.29,Yes,Yes,Yes,Yes,1,No,Not Placed
+STU1259,F,CBSE,81.3,ICSE,78.7,Architecture,9.21,Yes,No,No,Yes,4,No,Placed
+STU1260,F,CBSE,85.3,State Board,74.7,MBA,8.7,Yes,No,No,Yes,4,Yes,Placed
+STU1261,M,State Board,93.4,State Board,52.6,Science,8.27,Yes,No,No,Yes,1,No,Placed
+STU1262,F,CBSE,76.8,State Board,80.2,Commerce,7.23,Yes,Yes,No,No,1,No,Placed
+STU1263,F,State Board,83.1,CBSE,69.0,Civil Engineering,5.65,Yes,Yes,No,No,5,Yes,Placed
+STU1264,F,ICSE,90.5,CBSE,89.7,Medicine,6.93,No,No,No,Yes,1,Yes,Placed
+STU1265,F,State Board,77.4,State Board,55.0,Arts,9.36,No,Yes,No,No,1,No,Not Placed
+STU1266,M,ICSE,64.3,CBSE,83.7,Chemical Engineering,5.96,No,Yes,No,Yes,4,No,Placed
+STU1267,F,CBSE,77.8,CBSE,76.0,Electronics,7.36,No,Yes,No,Yes,2,Yes,Placed
+STU1268,F,ICSE,97.1,State Board,85.8,Commerce,6.68,No,No,No,Yes,2,No,Placed
+STU1269,F,State Board,86.7,State Board,79.7,MCA,6.36,No,No,Yes,No,1,No,Not Placed
+STU1270,F,ICSE,89.8,State Board,55.0,Law,7.14,Yes,Yes,No,Yes,3,No,Placed
+STU1271,F,CBSE,87.4,CBSE,66.9,Electrical Engineering,7.45,Yes,No,No,No,1,No,Placed
+STU1272,M,CBSE,87.0,CBSE,79.2,Commerce,8.86,No,Yes,No,No,5,Yes,Placed
+STU1273,F,ICSE,62.6,State Board,53.5,Chemical Engineering,9.64,Yes,No,No,No,2,Yes,Placed
+STU1274,M,ICSE,75.1,CBSE,51.9,MBA,9.49,Yes,No,No,No,1,No,Placed
+STU1275,M,State Board,61.9,State Board,75.2,Information Technology,5.9,Yes,Yes,No,No,2,No,Not Placed
+STU1276,M,State Board,69.9,CBSE,92.5,Computer Science,8.14,Yes,Yes,No,No,4,Yes,Placed
+STU1277,M,State Board,90.4,ICSE,74.2,MCA,7.69,No,Yes,No,Yes,3,Yes,Placed
+STU1278,M,State Board,57.8,State Board,79.6,Information Technology,6.42,No,Yes,Yes,No,1,Yes,Placed
+STU1279,M,CBSE,58.1,CBSE,87.3,Commerce,7.9,Yes,No,No,No,4,No,Placed
+STU1280,M,State Board,55.3,State Board,79.1,Science,8.75,Yes,Yes,No,Yes,3,No,Placed
+STU1281,F,ICSE,72.0,State Board,51.4,MCA,6.17,Yes,Yes,No,No,2,No,Not Placed
+STU1282,M,State Board,92.6,CBSE,55.8,Arts,5.52,No,Yes,Yes,No,2,No,Not Placed
+STU1283,M,CBSE,64.5,ICSE,59.1,Electronics,6.28,Yes,No,Yes,No,1,Yes,Not Placed
+STU1284,F,ICSE,60.5,State Board,61.0,Architecture,6.73,Yes,Yes,No,No,3,No,Not Placed
+STU1285,F,ICSE,96.2,CBSE,50.2,Electronics,6.56,Yes,No,No,No,2,No,Not Placed
+STU1286,F,ICSE,88.3,ICSE,75.9,Medicine,6.26,Yes,No,Yes,No,1,Yes,Not Placed
+STU1287,F,State Board,64.1,CBSE,75.9,Computer Science,7.84,No,Yes,No,Yes,5,No,Placed
+STU1288,F,ICSE,76.6,State Board,61.2,Mechanical Engineering,9.65,Yes,Yes,No,Yes,5,Yes,Placed
+STU1289,F,CBSE,64.4,ICSE,60.9,Architecture,6.64,Yes,Yes,No,No,4,No,Not Placed
+STU1290,M,State Board,68.9,State Board,95.5,Electrical Engineering,8.22,No,No,No,Yes,4,No,Placed
+STU1291,F,ICSE,96.8,CBSE,74.3,Mechanical Engineering,7.02,No,No,No,Yes,5,Yes,Placed
+STU1292,M,State Board,82.7,CBSE,57.1,Biotechnology,6.18,Yes,Yes,Yes,No,1,No,Not Placed
+STU1293,M,State Board,61.9,ICSE,51.1,Architecture,5.69,Yes,Yes,Yes,Yes,2,No,Not Placed
+STU1294,M,State Board,86.3,ICSE,94.5,Science,6.43,No,No,Yes,No,5,Yes,Not Placed
+STU1295,F,CBSE,86.1,ICSE,93.4,Information Technology,8.07,Yes,Yes,No,Yes,1,Yes,Placed
+STU1296,M,State Board,59.1,ICSE,92.4,Law,8.08,Yes,Yes,No,Yes,5,Yes,Placed
+STU1297,F,ICSE,92.6,State Board,74.9,Law,6.49,No,No,Yes,Yes,4,Yes,Placed
+STU1298,M,ICSE,80.7,State Board,69.2,Biotechnology,6.31,Yes,Yes,Yes,No,2,No,Not Placed
+STU1299,M,ICSE,83.0,ICSE,62.3,Civil Engineering,7.81,No,No,No,No,2,No,Not Placed
+STU1300,M,ICSE,79.0,ICSE,61.9,Architecture,6.82,No,No,No,Yes,2,No,Not Placed
+STU1301,M,CBSE,76.9,ICSE,87.6,Information Technology,8.14,Yes,Yes,No,Yes,1,Yes,Placed
+STU1302,M,CBSE,66.3,ICSE,53.8,Law,5.66,No,No,No,Yes,2,No,Placed
+STU1303,F,CBSE,56.4,State Board,74.0,Chemical Engineering,8.5,Yes,Yes,No,Yes,2,Yes,Not Placed
+STU1304,F,State Board,72.0,State Board,59.4,Science,5.57,Yes,Yes,Yes,No,3,No,Not Placed
+STU1305,F,ICSE,79.7,ICSE,58.2,Chemical Engineering,7.68,Yes,No,No,Yes,5,No,Placed
+STU1306,F,ICSE,79.2,CBSE,85.6,MBA,9.63,No,No,No,Yes,4,Yes,Placed
+STU1307,M,State Board,85.2,ICSE,69.4,Science,7.02,Yes,No,No,Yes,4,No,Placed
+STU1308,F,ICSE,70.2,State Board,62.6,Information Technology,9.57,Yes,No,No,Yes,2,No,Placed
+STU1309,M,State Board,70.3,CBSE,55.6,Chemical Engineering,5.84,No,Yes,No,Yes,4,No,Placed
+STU1310,F,ICSE,62.9,State Board,63.2,Architecture,6.45,Yes,Yes,Yes,No,4,Yes,Placed
+STU1311,M,ICSE,97.0,State Board,74.4,Science,6.86,Yes,Yes,No,No,5,Yes,Placed
+STU1312,M,State Board,66.3,ICSE,72.2,MBA,8.14,No,Yes,No,Yes,4,No,Placed
+STU1313,F,ICSE,62.7,CBSE,96.0,Science,8.45,Yes,No,No,No,4,Yes,Placed
+STU1314,F,CBSE,62.6,ICSE,56.3,Electronics,9.34,No,No,No,Yes,4,Yes,Placed
+STU1315,M,ICSE,75.5,State Board,54.5,Electrical Engineering,8.7,No,No,No,No,3,Yes,Placed
+STU1316,M,State Board,79.8,State Board,75.3,Arts,9.71,No,No,No,No,4,Yes,Placed
+STU1317,F,State Board,96.1,CBSE,80.1,MCA,9.49,No,No,No,Yes,1,Yes,Placed
+STU1318,F,State Board,67.5,ICSE,78.5,Commerce,7.2,No,No,No,No,4,Yes,Placed
+STU1319,M,State Board,65.1,ICSE,94.2,Computer Science,8.51,Yes,Yes,No,Yes,1,Yes,Placed
+STU1320,M,CBSE,88.2,State Board,86.0,Architecture,5.86,No,Yes,Yes,No,3,Yes,Placed
+STU1321,F,State Board,60.4,State Board,89.4,MCA,5.62,No,No,No,No,5,No,Placed
+STU1322,F,State Board,87.2,State Board,70.4,Information Technology,8.25,No,No,No,Yes,1,No,Placed
+STU1323,F,CBSE,68.1,CBSE,74.6,Law,8.76,Yes,No,No,Yes,4,No,Placed
+STU1324,F,State Board,64.9,CBSE,75.8,Law,6.31,No,No,Yes,No,4,Yes,Placed
+STU1325,M,State Board,87.9,State Board,88.0,Law,8.44,No,No,No,Yes,2,Yes,Placed
+STU1326,F,ICSE,85.1,ICSE,58.8,Medicine,5.58,Yes,Yes,Yes,Yes,3,No,Placed
+STU1327,M,CBSE,58.9,CBSE,73.2,Medicine,6.97,No,No,No,No,1,No,Placed
+STU1328,M,ICSE,88.4,CBSE,75.5,Electronics,6.28,No,No,Yes,No,4,Yes,Not Placed
+STU1329,M,ICSE,86.6,CBSE,74.5,Electrical Engineering,9.72,No,No,No,No,3,Yes,Placed
+STU1330,M,ICSE,75.7,ICSE,59.3,Electrical Engineering,9.32,Yes,Yes,No,No,3,Yes,Placed
+STU1331,M,ICSE,88.9,CBSE,95.5,MBA,8.0,No,Yes,No,Yes,2,Yes,Placed
+STU1332,M,CBSE,70.3,CBSE,83.0,Commerce,8.9,Yes,No,No,No,4,Yes,Placed
+STU1333,F,State Board,60.8,CBSE,72.8,Science,7.38,No,No,No,Yes,5,No,Placed
+STU1334,F,State Board,94.3,State Board,57.5,Medicine,7.78,No,No,No,No,4,Yes,Not Placed
+STU1335,M,CBSE,81.6,ICSE,86.5,Science,6.53,Yes,No,No,No,5,Yes,Placed
+STU1336,F,State Board,68.8,CBSE,74.6,Commerce,5.79,Yes,Yes,No,No,2,Yes,Placed
+STU1337,F,State Board,81.8,State Board,62.0,Science,7.08,Yes,Yes,No,Yes,4,Yes,Placed
+STU1338,F,State Board,87.0,ICSE,88.6,Electrical Engineering,8.92,Yes,No,No,Yes,3,Yes,Placed
+STU1339,M,State Board,64.9,ICSE,58.9,Civil Engineering,7.76,Yes,Yes,No,No,1,No,Not Placed
+STU1340,M,CBSE,89.1,State Board,68.9,Law,6.95,Yes,No,No,No,5,No,Not Placed
+STU1341,F,State Board,68.9,CBSE,76.5,Law,6.42,No,No,No,No,1,Yes,Not Placed
+STU1342,M,ICSE,55.3,CBSE,60.1,Computer Science,6.85,No,Yes,No,No,2,Yes,Placed
+STU1343,M,ICSE,89.9,CBSE,76.8,Biotechnology,7.95,Yes,Yes,No,No,2,No,Not Placed
+STU1344,F,CBSE,86.4,State Board,67.9,Civil Engineering,8.85,No,No,No,No,4,Yes,Placed
+STU1345,M,State Board,88.4,ICSE,52.5,Biotechnology,7.75,No,Yes,No,Yes,2,Yes,Placed
+STU1346,F,State Board,79.7,CBSE,60.4,Science,6.75,No,Yes,Yes,No,5,Yes,Not Placed
+STU1347,M,ICSE,76.6,State Board,56.1,MBA,6.08,Yes,No,Yes,Yes,5,Yes,Placed
+STU1348,F,ICSE,84.4,State Board,54.2,MBA,8.39,No,No,No,No,3,Yes,Placed
+STU1349,F,State Board,90.3,ICSE,79.3,Information Technology,7.39,Yes,Yes,No,Yes,1,Yes,Placed
+STU1350,M,ICSE,55.6,State Board,87.8,Biotechnology,6.81,No,Yes,No,Yes,2,No,Placed
+STU1351,M,ICSE,80.1,State Board,74.8,Electronics,6.6,Yes,No,No,No,1,No,Not Placed
+STU1352,M,ICSE,83.4,State Board,90.0,Computer Science,8.34,Yes,Yes,No,No,2,No,Placed
+STU1353,F,ICSE,92.3,State Board,54.1,Civil Engineering,6.36,No,Yes,Yes,No,3,No,Not Placed
+STU1354,M,ICSE,84.4,ICSE,79.4,Information Technology,6.52,No,Yes,No,No,1,No,Placed
+STU1355,F,State Board,60.9,State Board,68.0,Commerce,9.63,Yes,No,No,Yes,4,No,Placed
+STU1356,F,State Board,60.7,State Board,56.5,Commerce,7.83,Yes,Yes,No,Yes,4,Yes,Placed
+STU1357,F,CBSE,79.0,State Board,55.6,Information Technology,6.87,Yes,Yes,No,No,4,No,Placed
+STU1358,M,CBSE,59.6,CBSE,51.2,MBA,9.74,No,Yes,No,Yes,1,No,Placed
+STU1359,M,State Board,91.4,ICSE,83.5,Architecture,7.11,No,No,No,Yes,2,Yes,Placed
+STU1360,F,ICSE,64.6,State Board,96.4,Computer Science,8.76,Yes,Yes,No,No,5,No,Placed
+STU1361,M,ICSE,72.4,CBSE,78.6,Medicine,9.04,No,No,No,Yes,5,Yes,Placed
+STU1362,M,State Board,78.1,State Board,51.8,Electrical Engineering,7.17,Yes,Yes,No,No,3,No,Placed
+STU1363,F,State Board,94.5,State Board,74.3,Law,6.11,No,Yes,Yes,No,4,No,Not Placed
+STU1364,F,State Board,93.6,CBSE,91.5,Information Technology,5.89,No,Yes,Yes,No,3,Yes,Not Placed
+STU1365,M,ICSE,78.7,CBSE,86.1,Science,9.42,Yes,Yes,No,Yes,1,No,Placed
+STU1366,F,State Board,62.8,CBSE,95.1,Medicine,5.52,No,Yes,Yes,No,5,Yes,Not Placed
+STU1367,M,CBSE,80.3,ICSE,71.3,Architecture,7.4,Yes,Yes,No,No,5,Yes,Placed
+STU1368,M,State Board,70.0,CBSE,90.1,Electronics,8.37,No,No,No,Yes,1,No,Not Placed
+STU1369,F,State Board,83.4,State Board,78.0,Information Technology,8.89,Yes,No,No,No,1,Yes,Placed
+STU1370,F,ICSE,90.3,ICSE,89.6,Commerce,5.78,No,Yes,Yes,No,3,No,Not Placed
+STU1371,M,CBSE,79.6,State Board,74.9,Chemical Engineering,5.88,No,No,No,No,2,No,Not Placed
+STU1372,F,CBSE,93.0,CBSE,83.3,Architecture,9.71,Yes,Yes,Yes,Yes,5,No,Placed
+STU1373,F,State Board,89.7,CBSE,50.5,Commerce,6.37,No,No,No,No,1,Yes,Not Placed
+STU1374,F,State Board,79.5,CBSE,89.1,Commerce,6.33,No,No,No,Yes,4,Yes,Placed
+STU1375,F,ICSE,94.9,CBSE,89.2,Commerce,6.79,No,Yes,No,No,3,Yes,Not Placed
+STU1376,M,ICSE,97.3,State Board,75.1,MBA,6.21,No,Yes,Yes,No,3,Yes,Placed
+STU1377,F,CBSE,71.0,ICSE,60.2,Mechanical Engineering,6.8,Yes,No,No,Yes,1,No,Placed
+STU1378,M,CBSE,69.6,ICSE,84.4,Architecture,7.75,No,Yes,No,Yes,5,Yes,Placed
+STU1379,F,ICSE,85.7,State Board,55.4,Electrical Engineering,6.84,Yes,Yes,No,Yes,1,No,Placed
+STU1380,M,ICSE,63.6,ICSE,63.0,MCA,6.87,No,Yes,No,Yes,3,Yes,Placed
+STU1381,M,State Board,70.1,ICSE,62.7,Civil Engineering,9.56,No,Yes,No,No,5,No,Placed
+STU1382,M,CBSE,75.2,State Board,52.4,Electrical Engineering,7.15,Yes,No,No,No,5,No,Placed
+STU1383,M,ICSE,79.4,CBSE,88.2,Chemical Engineering,9.45,No,Yes,No,No,4,Yes,Not Placed
+STU1384,F,ICSE,71.9,State Board,93.1,Electronics,6.92,No,No,No,Yes,4,Yes,Placed
+STU1385,M,ICSE,88.0,State Board,77.0,Medicine,7.68,No,Yes,No,Yes,3,No,Placed
+STU1386,M,State Board,65.5,CBSE,95.8,Law,7.15,No,Yes,No,No,4,No,Not Placed
+STU1387,M,State Board,83.8,State Board,93.8,Biotechnology,7.97,No,Yes,No,No,3,Yes,Not Placed
+STU1388,F,ICSE,58.0,CBSE,82.2,Information Technology,8.06,No,No,No,Yes,1,Yes,Placed
+STU1389,M,State Board,61.4,State Board,63.7,Computer Science,8.15,No,Yes,No,No,3,No,Not Placed
+STU1390,F,CBSE,80.1,State Board,96.4,Law,7.24,Yes,No,Yes,Yes,5,No,Placed
+STU1391,M,CBSE,73.6,State Board,68.5,MCA,6.87,No,No,No,Yes,2,No,Placed
+STU1392,F,ICSE,61.6,State Board,55.9,Science,5.55,Yes,Yes,No,No,2,Yes,Placed
+STU1393,F,State Board,81.0,ICSE,79.3,Law,7.45,No,No,No,Yes,2,No,Placed
+STU1394,M,State Board,76.6,ICSE,93.5,Architecture,7.98,Yes,Yes,No,No,1,No,Not Placed
+STU1395,M,State Board,86.4,ICSE,71.9,Mechanical Engineering,5.84,Yes,Yes,Yes,Yes,5,No,Placed
+STU1396,M,ICSE,74.5,ICSE,77.0,Commerce,6.93,No,No,No,Yes,5,No,Placed
+STU1397,M,State Board,75.3,CBSE,76.9,MBA,8.32,No,Yes,No,Yes,2,Yes,Placed
+STU1398,F,CBSE,81.5,ICSE,90.3,MBA,5.56,Yes,Yes,No,No,3,Yes,Placed
+STU1399,F,CBSE,89.4,CBSE,66.1,Biotechnology,5.86,Yes,Yes,No,No,4,Yes,Placed
+STU1400,M,State Board,86.6,ICSE,52.6,Information Technology,6.64,Yes,Yes,No,No,4,No,Placed
+STU1401,F,State Board,85.3,ICSE,62.3,Biotechnology,7.78,No,Yes,No,No,4,No,Not Placed
